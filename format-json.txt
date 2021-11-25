@@ -1,0 +1,7 @@
+{
+"id":24,
+"url":"https://thatcopy.github.io/catAPI/imgs/jpg/6c7c5e1.jpg",
+"webpurl":"https://thatcopy.github.io/catAPI/imgs/webp/6c7c5e1.webp",
+"x":57.62,
+"y":43.47
+}
